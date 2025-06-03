@@ -1,2 +1,1 @@
-# ACT3-AFRL
-This will be a repo dump of all projects done at work.
+Code exploring Category Theory (For educational purposes). Comments working through the mathematics involved line by line in these projects.
