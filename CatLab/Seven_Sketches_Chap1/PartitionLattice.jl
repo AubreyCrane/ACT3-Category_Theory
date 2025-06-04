@@ -1,3 +1,5 @@
+# Email: willcrane2008@gmail.com
+#
 # This code is to answer excercises in chapter one in the book: Seven Sketches in Compositionality: "https://arxiv.org/abs/1803.05316"
 #
 # This code generates and visualizes a Hasse diagram for a given partially ordered set (poset).
